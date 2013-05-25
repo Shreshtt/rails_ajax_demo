@@ -3,3 +3,7 @@ This is the demo application of Rails Ajax CRUD operation. You can install it by
 <tt>bundle install</tt>
 
 <tt>bundle exec rake db:migrate</tt>
+
+Visit
+
+<tt>http://localhost:3000/posts</tt>
