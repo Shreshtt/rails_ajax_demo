@@ -1,0 +1,5 @@
+This is the demo application of Rails Ajax CRUD operation. You can install it by following commands...
+
+<tt>bundle install</tt>
+
+<tt>bundle exec rake db:migrate</tt>
